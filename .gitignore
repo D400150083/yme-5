@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller build cache
+build/
+*.spec
+
+# Local secrets
+.env
+*.key
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
